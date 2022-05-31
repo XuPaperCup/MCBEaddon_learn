@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "By @XuPaperCup, Currently addon only add sound.",
+      "name": "Platform Addon",
+      "uuid": "85096377-3259-4610-b866-832e9da91573",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 18, 30]
+    },
+    "modules": [
+      {
+        "description": "Platform",
+        "type": "resources",
+        "uuid": "122b8bcf-a8f8-442f-ba0b-94e9456d0240",
+        "version": [0, 0, 1]
+      }
+    ]
+  }
