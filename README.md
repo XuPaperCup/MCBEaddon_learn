@@ -2,6 +2,7 @@
 This is Minecraft Bedrock Addon Sample File for teaching usage.
 
 # Useful Link
+[UUID Generator]<a href="https://www.uuidgenerator.net/" target="_blank">Online UUID Generator/</a><BR>
 [License choosing]<a href="https://choosealicense.com/" target="_blank">https://choosealicense.com/</a><BR>
 [Turorial]<a href="https://docs.microsoft.com/zh-tw/minecraft/creator/" target="_blank">Minecraft: Bedrock Edition Creator Documentation</a><BR>
 [Documentation]<a href="https://bedrock.dev/" target="_blank">bedrock.dev</a><BR>
