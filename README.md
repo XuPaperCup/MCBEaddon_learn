@@ -1,4 +1,4 @@
-# MCBEaddon
+# MCBEaddon Sample
 This is Minecraft Bedrock Addon Sample File for teaching usage.
 
 # Useful Link
