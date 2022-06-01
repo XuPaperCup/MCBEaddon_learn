@@ -1,11 +1,11 @@
 # MCBEaddon Teaching Material
-This Repository provide Minecraft Bedrock Addon Sample File for teaching usage.
+-This Repository provide Minecraft Bedrock Addon Sample File for teaching usage
 
-# Pre-installation (optional)
+## Pre-installation (optional)
 [Zip File Management]<a href="https://www.7-zip.org/" target="_blank">7-zip</a><BR>
 [Coding Usage]<a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a><BR>
   
-# Useful Link
+## Useful Link
 [UUID Generator]<a href="https://www.uuidgenerator.net/" target="_blank">Online UUID Generator</a><BR>
 [License choosing]<a href="https://choosealicense.com/" target="_blank">choosealicense.com</a><BR>
 [Microsoft Turorial]<a href="https://docs.microsoft.com/zh-tw/minecraft/creator/" target="_blank">Minecraft: Bedrock Edition Creator Documentation</a><BR>
