@@ -1,5 +1,5 @@
 # MCBEaddon Learning Material
--This Repository provide Minecraft Bedrock Addon Sample File for Learning usage
+-This Repository provide Minecraft Bedrock Addon Sample File for learning usage
 
 ## Pre-installation (optional)
 [Zip File Management]<a href="https://www.7-zip.org/" target="_blank">7-zip</a><BR>
