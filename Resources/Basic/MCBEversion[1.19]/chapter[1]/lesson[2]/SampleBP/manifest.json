@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Sample Addon description",
+    "name": "Sample Addon name",
+    "uuid": "Enter_UUID",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Sample Addon description",
+      "type": "data",
+      "uuid": "Enter_UUID",
+      "version": [0, 0, 1]
+    }
+  ]
+}
